@@ -17,7 +17,19 @@ public class types {
         boolean isAdult = true;
 
         //NON PRIMITIVE TYPES:
-        String name = "Shriwayanta Maiti";
+        //String
+        String name = "Shriwayanta";
+        String surname = "Maiti";
+        System.out.println(name+' '+surname);
+        //charAt
+        System.out.println(name.charAt(0));
+        //length
         System.out.println(name.length());
+        //replace
+        String new_name = name.replace("a","x");
+        System.out.println(new_name);
+        //substring
+        String names = "Aman and Akku";
+        System.out.println(names.substring(0,6));
     }
 }
