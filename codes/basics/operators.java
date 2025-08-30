@@ -1,3 +1,5 @@
+package codes.basics;
+
 public class operators {
     public static void main(String[] args) {
         //operators: arithmetic, assignment, logical, comparison operators

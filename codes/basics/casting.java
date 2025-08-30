@@ -1,3 +1,5 @@
+package codes.basics;
+
 public class casting {
     public static void main(String[] args) {
         //casting means to convert one datatype to another as long as they are compatible

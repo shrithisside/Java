@@ -1,8 +1,10 @@
+package codes.basics;
+
 import java.util.Arrays;
 
 public class arrays {
     public static void main(String[] args) {
-        //arrays in java
+        //src.basics.arrays in java
         int[] marks = new int[3];
         marks[0] = 97;
         marks[1] = 98;

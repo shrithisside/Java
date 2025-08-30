@@ -1,3 +1,5 @@
+package codes.lecture_codes;
+
 public class geeks1 {
 
     String name;

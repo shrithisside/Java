@@ -1,3 +1,5 @@
+package codes.basics;
+
 import java.util.Scanner;
 
 public class input {

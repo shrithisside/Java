@@ -1,3 +1,5 @@
+package codes.basics;
+
 public class types {
     public static void main(String[] args) {
         // PRIMITIVE TYPES:

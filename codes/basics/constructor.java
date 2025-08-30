@@ -1,3 +1,5 @@
+package codes.basics;
+
 public class constructor {
     int x;  // Create a class attribute
 

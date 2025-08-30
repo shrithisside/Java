@@ -1,3 +1,5 @@
+package codes.basics;
+
 public class constants {
     public static void main(String[] args) {
         //constants

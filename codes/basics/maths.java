@@ -1,3 +1,5 @@
+package codes.basics;
+
 public class maths {
     public static void main(String[] args) {
         //Maths class
