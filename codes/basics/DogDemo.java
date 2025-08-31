@@ -11,7 +11,7 @@ class Dog {
     }
 }
 
-public class DogDemo {   // file is Dog.java, so this class cannot be public Dog
+public class DogDemo {   // file is DogDemo.java, so this class cannot be public Dog
     public static void main(String[] args) {
         // Creating an object named 'myDog'
         Dog myDog = new Dog();
