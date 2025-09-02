@@ -10,8 +10,6 @@ public class SimpleCalculator {
         System.out.print("Enter first number: ");
         double num1 = sc.nextDouble();
 
-        System.out.print("Enter second number: ");
-        double num2 = sc.nextDouble();
 
         // Display menu
         System.out.println("\nChoose an operation:");
@@ -21,6 +19,9 @@ public class SimpleCalculator {
         System.out.println("4. Division (/)");
         System.out.print("Enter your choice (no.): ");
         int choice = sc.nextInt();
+
+        System.out.print("Enter second number: ");
+        double num2 = sc.nextDouble();
 
         double result = 0;
         boolean valid = true;
