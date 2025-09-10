@@ -5,7 +5,7 @@ package codes.lecture_codes;
 
 import java.util.Scanner;
 
-public class ArmstrongNumber {
+public class Armstrong {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");
