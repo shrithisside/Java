@@ -1,15 +1,15 @@
 package codes.lecture_codes;
 
-//  is an abstract class, not an interface.
-abstract class Main {
+// Abstract class
+abstract class Vehicle {
 
-    // Abstract methods do not have a body.
+    // Abstract methods
     abstract void startEngine();
     abstract void stopEngine();
 }
 
-// A concrete class extends an abstract class.
-class Car extends Main {
+// Concrete class
+class Car extends Vehicle {
     @Override
     public void startEngine() {
         System.out.println("The car engine starts.");
@@ -21,9 +21,10 @@ class Car extends Main {
     }
 }
 
-public class Vehicle1{
-    public static void vehicle1(String[] args) {
-        Main myCar = new Car();
+// Main class with entry point
+public class Vehicle1 {
+    public static void main(String[] args) {
+        Vehicle myCar = new Car(); // Polymorphism
         myCar.startEngine();
         myCar.stopEngine();
     }
