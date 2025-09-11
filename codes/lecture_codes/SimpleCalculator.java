@@ -25,8 +25,6 @@ public class SimpleCalculator {
 
         double result = 0;
         boolean valid = true;
-
-        // Switch-case for operations
         switch (choice) {
             case 1:
                 result = num1 + num2;

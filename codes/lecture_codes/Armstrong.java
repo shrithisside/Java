@@ -1,8 +1,4 @@
 package codes.lecture_codes;
-
-// Armstrong number example using constructor
-// Armstrong number: sum of cubes of digits = number itself (for 3-digit)
-
 import java.util.Scanner;
 
 public class Armstrong {
