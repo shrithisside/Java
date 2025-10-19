@@ -22,4 +22,3 @@ public class OverridingExample {
         obj2.show();
     }
 }
-
