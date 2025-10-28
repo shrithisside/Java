@@ -1,5 +1,6 @@
 package codes.lab_codes;
 
+
 // StudentRegistration.java
 
 // Abstract class
