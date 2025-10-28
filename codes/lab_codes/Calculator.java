@@ -1,7 +1,5 @@
 package codes.lab_codes;
 
-import java.util.*;
-
 public class Calculator {
 
     // Method Overloading
