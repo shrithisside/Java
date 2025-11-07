@@ -1,4 +1,6 @@
 
+import codes.lab_codes;
+
 import java.util.Scanner;
 
 public class Student {
