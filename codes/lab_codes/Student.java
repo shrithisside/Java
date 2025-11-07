@@ -1,5 +1,5 @@
 
-import codes.lab_codes;
+package codes.lab_codes;
 
 import java.util.Scanner;
 
