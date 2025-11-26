@@ -1,4 +1,4 @@
-package codes.lab_codes;
+
 // Define the Book class
 class Book {
     // Fields (Instance Variables)
